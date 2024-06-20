@@ -1,9 +1,9 @@
 # U-35
 
-##Takım İsmi
+## Takım İsmi
 Unity-35 Takımı
 
-##Takım Üyeleri
+## Takım Üyeleri
 - Üye ismi 1
 - üye ismi 2
 - üye ismi 3
@@ -16,15 +16,15 @@ buraya oyun ismi gelicek
 ## Oyunun açıklaması
 buraya oyunun kısa bir özetini açıklayarak yazacağız.
 
-##Oyunun özellikleri
+## Oyunun özellikleri
 buraya oyundaki özelliklerimiz gelecek
 
 
-##Hedef Kitle
+## Hedef Kitle
 hedef kitlemizi buraya yazacağız.
 
-##Product backlog URL
+## Product backlog URL
 
 
-##Sprint 1
+## Sprint 1
 ilk sprint logumuzu buraya dolduracağız.
