@@ -4,11 +4,11 @@
 Unity-35 Takımı
 
 ## Takım Üyeleri
-- Üye ismi 1
-- üye ismi 2
-- üye ismi 3
-- üye ismi 4
-- üye ismi 5
+* Mahmut Furkan Koçak - Product Owner
+* Melis Karadağ - Scrum Master 
+* Medet Çınar - Developer
+* Mecit Menekşe - Developer
+* 
 
 ## Oyun ismi
 buraya oyun ismi gelicek
