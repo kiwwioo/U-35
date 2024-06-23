@@ -4,7 +4,7 @@
 Unity-35 Takımı
 
 ## Takım Üyeleri
-- Üye ismi 1
+- Mahmut Furkan
 - üye ismi 2
 - üye ismi 3
 - üye ismi 4
